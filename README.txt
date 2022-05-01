@@ -1,8 +1,7 @@
 CS101 Project 
-Roll No. 210050063
-Division D1 ; Tut Batch T1
+Roll No. [REDACTED]
 
-Gameplay video folder - https://drive.google.com/drive/folders/1R58CufTCB5TsA89DRH6E8sfRW-tjapP1?usp=sharing
+Gameplay video folder - [REDACTED]
 
 Required Features implemented
 -collisions between bullets and bubbles. On collision, both bullet and bubble are erased
