@@ -1,3 +1,6 @@
+NOTE - To compile the files, a library called 'Simplecpp', developed by Prof. Abhiram Ranade at Dept. of CSE, IIT Bombay.
+It can be found at https://www.cse.iitb.ac.in/~ranade/simplecpp/
+
 CS101 Project 
 Roll No. [REDACTED]
 
